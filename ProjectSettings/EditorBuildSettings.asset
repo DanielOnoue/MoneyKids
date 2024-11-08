@@ -9,9 +9,45 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/Phase1Scene.unity
     guid: 7c70216938e6cb649b07458cef51783b
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: 1f1e3fb4ab6c2354c97a4cfd7c39a13b
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: b5c5d6aa3a8a96e4e8712b3b7785562a
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 4d0307653ebd15348a281ad1f09b56ec
+  - enabled: 1
+    path: Assets/Scenes/Phase2Scene.unity
+    guid: d9c2dc0673065bf49bc3ec9e26f90303
+  - enabled: 1
+    path: Assets/Scenes/P1Message.unity
+    guid: b195a10baa543fd469967a5781f0e564
+  - enabled: 1
+    path: Assets/Scenes/P2Message.unity
+    guid: b7aab2e8ab670b14eba81e0a87f2473e
+  - enabled: 1
+    path: Assets/Scenes/Phase3Scene.unity
+    guid: 2a6d4c560c4f44641b944aa730c8b31d
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 96623b7787fa3e741bbd6f3d5ee203db
+  - enabled: 1
+    path: Assets/Scenes/P3Message.unity
+    guid: 79b0caf448688da46baad865df422f74
+  - enabled: 1
+    path: Assets/Scenes/Phase4Scene.unity
+    guid: e7c3c10e3b0b2854eb952af02713ae51
+  - enabled: 1
+    path: Assets/Scenes/P4Message.unity
+    guid: 41ae579add99a974fa030d4b107af090
+  - enabled: 1
+    path: Assets/Scenes/Phase5Scene.unity
+    guid: f618db7aa87266144b80d29bdd24f1f2
+  - enabled: 1
+    path: Assets/Scenes/P5Message.unity
+    guid: 68821678e56da2c478b471adf7c7bc94
   m_configObjects: {}
