@@ -513,8 +513,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Avan\xE7ar"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
+  m_sharedMaterial: {fileID: 5119558231437868308, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -647,8 +647,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Voltar
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
+  m_sharedMaterial: {fileID: 5119558231437868308, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

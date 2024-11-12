@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 258c6079f3d9e5e4cb2a9cd5411a2c06
+guid: 445d23225f6dc634f92d723df30b4f0e
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - GoodDog Cool
+  - GROBOLD
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
