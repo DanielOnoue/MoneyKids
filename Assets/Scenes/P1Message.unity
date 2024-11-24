@@ -513,8 +513,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Avan\xE7ar"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
-  m_sharedMaterial: {fileID: 5119558231437868308, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -647,8 +647,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Voltar
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
-  m_sharedMaterial: {fileID: 5119558231437868308, guid: 64d40eaeb1dd9fb428c961345d81c18f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -912,12 +912,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ol\xE1! Sou o Pedro. Quero muito comprar um brinquedo, mas para isso preciso
-    da sua ajuda. Precisamos de alguma forma pagar as despesas semanais e sobrar
-    100 reais para conseguirmos o brinquedo. Para ganhar mais dinheiro, podemos investir
-    nas aplica\xE7\xF5es dos bancos. Dep\xF3sitos e resgates poder\xE3o ser feitos
-    quando quiser, mas a aplica\xE7\xE3o s\xF3 render\xE1 caso a gente deixe a aplica\xE7\xE3o
-    investida por uma semana.\nVamos l\xE1?"
+  m_text: "Quero muito comprar um brinquedo, mas para isso preciso da sua ajuda.
+    Precisamos de alguma forma pagar as despesas semanais e sobrar R$100,00 para
+    conseguirmos o brinquedo. Para ganhar mais dinheiro, podemos investir no cofrinho.
+    Voc\xEA poder\xE1 colocar ou tirar o dinheiro de l\xE1 quando quiser, mas ele
+    apenas aumentar\xE1 caso a gente deixe o dinheiro investido por uma semana.\nVamos
+    l\xE1?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1028,7 +1028,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000015259, y: -174}
+  m_AnchoredPosition: {x: 0, y: -174}
   m_SizeDelta: {x: 157, y: 204}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1544114511

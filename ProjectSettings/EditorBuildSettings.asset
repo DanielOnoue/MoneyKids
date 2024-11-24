@@ -50,4 +50,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/P5Message.unity
     guid: 68821678e56da2c478b471adf7c7bc94
+  - enabled: 1
+    path: Assets/Scenes/Message1.unity
+    guid: 91a6cdea786416a40b23722f64973585
+  - enabled: 1
+    path: Assets/Scenes/Message2.unity
+    guid: 04c54d0daf7d670488ac7993c16436ed
+  - enabled: 1
+    path: Assets/Scenes/Message3.unity
+    guid: 44e5717fce1a4a7419d6fac945ff2761
   m_configObjects: {}

@@ -13,7 +13,7 @@ public class PlayButtonController : MonoBehaviour
         {
             Destroy(moneyController.gameObject);
         }
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(15);
     }
 
     private void Start()
